@@ -1,12 +1,12 @@
 ## Hi, I'm Akvn 👋
 
-I'm an AI developer focused on deep learning and generative AI. I also work as a platform engineer, building scalable infrastructure to deploy and manage models and applications in production. I have some research experience and a few academic publications, but I really enjoy building real-world things. Lately, I’ve been learning Rust and exploring GitOps. I’m also very interested in distributed systems and blockchains, particularly Solana.
+I'm a platform engineer, building scalable infrastructure to deploy and manage production-grade applications and AI models. I have some research experience and a few academic publications, but I really enjoy building real-world things. I’m also very interested in distributed systems and blockchains, particularly Solana.
 
 ## Fun Fact 🐳
 
-I did a little bit of everything: deep learning, generative AI, web development, devops, data engineering, data analytics, and blockchain. 
+I did a little bit of everything: deep learning, generative AI, web development, platform engineering, data engineering, data analytics, and blockchain. 
 
-The thing that never fails to fascinate me is infrastructure (platform engineering/devops), especially as it becomes more sophisticated.
+The thing that never fails to fascinate me is infrastructure (platform engineering/DevOps), especially as it becomes more sophisticated.
 
 ## GitHub Stats
 
